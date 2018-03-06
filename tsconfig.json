@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs", 
+    "jsx": "react-native",
+    "outDir": "build",
+    "rootDir": "src",
+    "strict": true,
+    "types": [ "react", "react-native"]
+  },
+  "exclude": [
+    "App.js",
+    "App.test.js",
+    "build",
+    "node_modules"
+  ]
+}
