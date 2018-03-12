@@ -1,5 +1,5 @@
 {
-  "name": "ryreet",
+  "name": "plastock",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -7,7 +7,7 @@
     "react-native-scripts": "1.11.1",
     "react-test-renderer": "16.2.0",
     "tslint": "^5.9.1",
-    "typedoc": "^0.11.0",
+    "typedoc": "^0.11.1",
     "typescript": "^2.7.2",
     "typings": "^2.1.1"
   },
